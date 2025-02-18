@@ -1,0 +1,428 @@
+[
+  {
+    "id": 1,
+    "question": "Wofür steht CSS?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style System",
+      "Creative Style Syntax",
+      "Coded Style Structure"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 2,
+    "question": "Wie kann die Textfarbe eines Elements in CSS geändert werden?",
+    "options": ["color", "text-color", "font-color", "style-color"],
+    "answer": "color"
+  },
+  {
+    "id": 3,
+    "question": "Welches CSS-Attribut wird genutzt, um den Hintergrund eines Elements zu ändern?",
+    "options": ["background-color", "bg-color", "background", "color"],
+    "answer": "background-color"
+  },
+  {
+    "id": 4,
+    "question": "Welche Einheit wird in CSS für Schriftgrößen am häufigsten verwendet?",
+    "options": ["px", "cm", "inch", "pt"],
+    "answer": "px"
+  },
+  {
+    "id": 5,
+    "question": "Wie kann ein Element mittig auf einer Seite positioniert werden?",
+    "options": [
+      "margin: auto;",
+      "align: center;",
+      "center: true;",
+      "position: middle;"
+    ],
+    "answer": "margin: auto;"
+  },
+  {
+    "id": 6,
+    "question": "Welches CSS-Attribut wird verwendet, um ein Element unsichtbar zu machen?",
+    "options": [
+      "display: none;",
+      "visibility: hidden;",
+      "opacity: 0;",
+      "Alle oben genannten"
+    ],
+    "answer": "Alle oben genannten"
+  },
+  {
+    "id": 7,
+    "question": "Welches Symbol wird in CSS verwendet, um eine Klasse auszuwählen?",
+    "options": ["#", ".", "*", "&"],
+    "answer": "."
+  },
+  {
+    "id": 8,
+    "question": "Was ist der Standardwert für die Positionierung eines Elements?",
+    "options": ["static", "relative", "absolute", "fixed"],
+    "answer": "static"
+  },
+  {
+    "id": 9,
+    "question": "Welches CSS-Attribut bestimmt die Dicke eines Rahmens?",
+    "options": [
+      "border-width",
+      "border-thickness",
+      "border-size",
+      "border-length"
+    ],
+    "answer": "border-width"
+  },
+  {
+    "id": 10,
+    "question": "Welche Eigenschaft wird verwendet, um den Abstand zwischen den Buchstaben eines Textes zu ändern?",
+    "options": [
+      "letter-spacing",
+      "text-spacing",
+      "word-spacing",
+      "line-height"
+    ],
+    "answer": "letter-spacing"
+  },
+  {
+    "id": 11,
+    "question": "Wie kann man ein Bild als Hintergrund setzen?",
+    "options": ["background-image", "image-src", "set-background", "bg-img"],
+    "answer": "background-image"
+  },
+  {
+    "id": 12,
+    "question": "Welche Eigenschaft bestimmt die maximale Breite eines Elements?",
+    "options": ["max-width", "width", "min-width", "element-width"],
+    "answer": "max-width"
+  },
+  {
+    "id": 13,
+    "question": "Wie kann man ein Element fixieren, sodass es beim Scrollen sichtbar bleibt?",
+    "options": [
+      "position: fixed;",
+      "position: sticky;",
+      "position: absolute;",
+      "position: static;"
+    ],
+    "answer": "position: fixed;"
+  },
+  {
+    "id": 14,
+    "question": "Welche Eigenschaft legt fest, ob ein Element sichtbar ist?",
+    "options": ["visibility", "display", "opacity", "appearance"],
+    "answer": "visibility"
+  },
+  {
+    "id": 15,
+    "question": "Wie setzt man einen Schatten auf ein Element?",
+    "options": ["box-shadow", "shadow-effect", "element-shadow", "shadow"],
+    "answer": "box-shadow"
+  },
+  {
+    "id": 16,
+    "question": "Welches CSS-Attribut bestimmt den Stil eines Rahmens?",
+    "options": ["border-style", "border-format", "border-type", "border-mode"],
+    "answer": "border-style"
+  },
+  {
+    "id": 17,
+    "question": "Wie kann ein Text unterstrichen werden?",
+    "options": [
+      "text-decoration: underline;",
+      "text-style: underline;",
+      "text-line: under;",
+      "font-underline: true;"
+    ],
+    "answer": "text-decoration: underline;"
+  },
+  {
+    "id": 18,
+    "question": "Was bewirkt 'overflow: hidden;'?",
+    "options": [
+      "Versteckt überlaufenden Inhalt",
+      "Färbt den Inhalt unsichtbar",
+      "Löscht das Element",
+      "Ändert die Textgröße"
+    ],
+    "answer": "Versteckt überlaufenden Inhalt"
+  },
+  {
+    "id": 19,
+    "question": "Welche Eigenschaft ändert die Schriftart eines Textes?",
+    "options": ["font-family", "text-font", "font-style", "font-type"],
+    "answer": "font-family"
+  },
+  {
+    "id": 20,
+    "question": "Wie erstellt man einen Hover-Effekt?",
+    "options": [":hover", "::hover", ":onhover", "::onhover"],
+    "answer": ":hover"
+  },
+  {
+    "id": 21,
+    "question": "Wie setzt man einen Farbverlauf als Hintergrund?",
+    "options": [
+      "background: linear-gradient();",
+      "color-gradient: ();",
+      "gradient-bg: ();",
+      "background-gradient: ();"
+    ],
+    "answer": "background: linear-gradient();"
+  },
+  {
+    "id": 22,
+    "question": "Was macht die Eigenschaft 'cursor: pointer;'?",
+    "options": [
+      "Ändert den Mauszeiger zu einer Hand",
+      "Vergrößert das Element",
+      "Färbt den Text blau",
+      "Erzeugt eine Animation"
+    ],
+    "answer": "Ändert den Mauszeiger zu einer Hand"
+  },
+  {
+    "id": 23,
+    "question": "Wie kann man die Breite eines Elements auf 100% des Elterncontainers setzen?",
+    "options": [
+      "width: 100%;",
+      "max-width: 100%;",
+      "size: full;",
+      "container-width: 100%;"
+    ],
+    "answer": "width: 100%;"
+  },
+  {
+    "id": 24,
+    "question": "Welche Eigenschaft wird für Animationen verwendet?",
+    "options": ["animation", "transition", "motion", "effect"],
+    "answer": "animation"
+  },
+  {
+    "id": 25,
+    "question": "Wie kann ein Element ausgeblendet werden?",
+    "options": [
+      "display: none;",
+      "visibility: hidden;",
+      "opacity: 0;",
+      "Alle oben genannten"
+    ],
+    "answer": "Alle oben genannten"
+  },
+
+  {
+    "id": 26,
+    "question": "Welche Eigenschaft wird verwendet, um einen flexiblen Container zu erstellen?",
+    "options": [
+      "display: flex;",
+      "flex-container: true;",
+      "grid: flex;",
+      "box-flex: on;"
+    ],
+    "answer": "display: flex;"
+  },
+  {
+    "id": 27,
+    "question": "Welche Eigenschaft definiert den Abstand zwischen Zeilen in einem Text?",
+    "options": [
+      "line-height",
+      "text-spacing",
+      "letter-spacing",
+      "word-spacing"
+    ],
+    "answer": "line-height"
+  },
+  {
+    "id": 28,
+    "question": "Was macht 'position: absolute;'?",
+    "options": [
+      "Positioniert das Element relativ zum nächsten positionierten Elternteil",
+      "Fixiert das Element beim Scrollen",
+      "Zentriert das Element",
+      "Setzt die Breite auf 100%"
+    ],
+    "answer": "Positioniert das Element relativ zum nächsten positionierten Elternteil"
+  },
+  {
+    "id": 29,
+    "question": "Wie kann man ein Element mit CSS drehen?",
+    "options": [
+      "transform: rotate();",
+      "rotate: ();",
+      "turn: ();",
+      "angle: ();"
+    ],
+    "answer": "transform: rotate();"
+  },
+  {
+    "id": 30,
+    "question": "Welche Eigenschaft wird verwendet, um ein Element an einem Raster auszurichten?",
+    "options": [
+      "display: grid;",
+      "grid-template;",
+      "grid-mode;",
+      "grid-position;"
+    ],
+    "answer": "display: grid;"
+  },
+  {
+    "id": 31,
+    "question": "Welche Eigenschaft bestimmt die Reihenfolge von flexiblen Elementen?",
+    "options": ["order", "flex-index", "position", "align"],
+    "answer": "order"
+  },
+  {
+    "id": 32,
+    "question": "Welche CSS-Regel kann verwendet werden, um das erste Kind eines Elements auszuwählen?",
+    "options": [":first-child", "::first-child", ":child(1)", "::child(1)"],
+    "answer": ":first-child"
+  },
+  {
+    "id": 33,
+    "question": "Wie kann man einen Rahmen mit abgerundeten Ecken erstellen?",
+    "options": ["border-radius", "border-curve", "corner-round", "edge-style"],
+    "answer": "border-radius"
+  },
+  {
+    "id": 34,
+    "question": "Welche Eigenschaft steuert die Geschwindigkeit einer CSS-Animation?",
+    "options": [
+      "animation-duration",
+      "animation-speed",
+      "transition-time",
+      "motion-duration"
+    ],
+    "answer": "animation-duration"
+  },
+  {
+    "id": 35,
+    "question": "Welche Eigenschaft ändert den Abstand zwischen Grid-Elementen?",
+    "options": ["gap", "grid-spacing", "grid-margin", "grid-padding"],
+    "answer": "gap"
+  },
+  {
+    "id": 36,
+    "question": "Wie kann man einen Button beim Hover-Effekt vergrößern?",
+    "options": [
+      "transform: scale(1.2);",
+      "size: enlarge(1.2);",
+      "hover-size: 120%;",
+      "expand: 1.2;"
+    ],
+    "answer": "transform: scale(1.2);"
+  },
+  {
+    "id": 37,
+    "question": "Welche Eigenschaft wird für eine langsame Farbänderung verwendet?",
+    "options": ["transition", "color-speed", "fade", "blend"],
+    "answer": "transition"
+  },
+  {
+    "id": 38,
+    "question": "Was bewirkt 'flex-wrap: wrap;'?",
+    "options": [
+      "Lässt Flex-Elemente umbrechen",
+      "Färbt Flex-Elemente",
+      "Fixiert Flex-Elemente",
+      "Positioniert Flex-Elemente mittig"
+    ],
+    "answer": "Lässt Flex-Elemente umbrechen"
+  },
+  {
+    "id": 39,
+    "question": "Welche Eigenschaft steuert die Transparenz eines Elements?",
+    "options": ["opacity", "visibility", "display", "alpha"],
+    "answer": "opacity"
+  },
+  {
+    "id": 40,
+    "question": "Welche CSS-Funktion wird für Farbverläufe verwendet?",
+    "options": [
+      "linear-gradient()",
+      "gradient-color()",
+      "color-transition()",
+      "bg-gradient()"
+    ],
+    "answer": "linear-gradient()"
+  },
+  {
+    "id": 41,
+    "question": "Welche Eigenschaft zentriert Text horizontal?",
+    "options": [
+      "text-align: center;",
+      "align: middle;",
+      "text-position: center;",
+      "font-align: center;"
+    ],
+    "answer": "text-align: center;"
+  },
+  {
+    "id": 42,
+    "question": "Wie kann man den Stil einer Liste ändern?",
+    "options": ["list-style", "list-format", "list-mode", "list-decoration"],
+    "answer": "list-style"
+  },
+  {
+    "id": 43,
+    "question": "Was bewirkt 'visibility: hidden;'?",
+    "options": [
+      "Macht das Element unsichtbar, aber es bleibt im Layout",
+      "Löscht das Element",
+      "Ändert die Hintergrundfarbe",
+      "Versteckt den Rahmen"
+    ],
+    "answer": "Macht das Element unsichtbar, aber es bleibt im Layout"
+  },
+  {
+    "id": 44,
+    "question": "Wie kann man ein Element nach rechts ausrichten?",
+    "options": [
+      "float: right;",
+      "align: right;",
+      "text-align: right;",
+      "position: right;"
+    ],
+    "answer": "float: right;"
+  },
+  {
+    "id": 45,
+    "question": "Wie kann man eine Schriftart aus Google Fonts einbinden?",
+    "options": ["@import", "@font-face", "font-family: google;", "font-load:"],
+    "answer": "@import"
+  },
+  {
+    "id": 46,
+    "question": "Welche Eigenschaft wird genutzt, um ein Element schräg zu machen?",
+    "options": [
+      "transform: skew();",
+      "skew-mode:",
+      "tilt:",
+      "angle-transform:"
+    ],
+    "answer": "transform: skew();"
+  },
+  {
+    "id": 47,
+    "question": "Wie kann man die Breite eines Elements auf den Inhalt begrenzen?",
+    "options": ["max-content", "content-width", "min-content", "width: auto;"],
+    "answer": "max-content"
+  },
+  {
+    "id": 48,
+    "question": "Welche Eigenschaft definiert den Stil einer Schrift?",
+    "options": ["font-style", "text-style", "letter-style", "font-family"],
+    "answer": "font-style"
+  },
+  {
+    "id": 49,
+    "question": "Wie kann man einen Schatten auf Text anwenden?",
+    "options": ["text-shadow", "shadow-text", "font-shadow", "text-outline"],
+    "answer": "text-shadow"
+  },
+  {
+    "id": 50,
+    "question": "Wie kann man den Zeilenumbruch eines Textes steuern?",
+    "options": ["word-wrap", "text-wrap", "line-break", "wrap-mode"],
+    "answer": "word-wrap"
+  }
+]
