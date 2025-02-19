@@ -1,12 +1,12 @@
 let questions = [];
 let currentQuestion = {};
-let lastQuestion;
+let questionsLength = 0;
+let correctAnswers = 0;
 
 document
   .getElementById("json-selector")
   .addEventListener("change", function () {
-    if(this.value !== "")
-    loadQuestions(this.value);
+    if (this.value !== "") loadQuestions(this.value);
   });
 
 async function loadQuestions(jsonFile) {
@@ -14,6 +14,7 @@ async function loadQuestions(jsonFile) {
     const response = await fetch(jsonFile);
     questions = await response.json();
     shuffleArray(questions);
+    questionsLength = questions.length;
     loadQuestion();
   } catch (error) {
     console.error("Fehler beim Laden der Fragen:", error);
@@ -31,11 +32,14 @@ function shuffleArray(array) {
 }
 
 function loadQuestion() {
-  if (questions.length === 0) {
+  if (questions.length === 49) {
+    alert(
+      `Congratulations you had ${correctAnswers}/${questionsLength} correct answers`
+    );
     console.error("Keine Fragen vorhanden!");
     return;
   }
-
+  updateScore();
   currentQuestion = questions[questions.length - 1];
 
   document.getElementById("question").textContent = currentQuestion.question;
@@ -58,17 +62,23 @@ function loadQuestion() {
 }
 
 function checkAnswer(selectedOption, button) {
-  const isCorrect = selectedOption === currentQuestion.answer;
-  document.getElementById("feedback").textContent = isCorrect
-    ? "Richtig! 🎉"
-    : "Falsch! 😢";
-
+  if (selectedOption === currentQuestion.answer) {
+    correctAnswers++;
+    document.getElementById("feedback").textContent = "Richtig! 🎉";
+  } else {
+    document.getElementById("feedback").textContent = "Falsch! 😢";
+  }
   document.querySelectorAll("#options button").forEach((btn) => {
     btn.disabled = true;
   });
   questions.pop();
   document.getElementById("next-question").style.display = "block";
 }
+const updateScore = () => {
+  document.getElementById("score").innerText = `${
+    questionsLength - questions.length + 1
+  }/${questionsLength}`;
+};
 
 document
   .getElementById("next-question")
