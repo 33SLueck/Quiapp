@@ -12,541 +12,541 @@
   },
   {
     "id": 2,
-    "question": "Welches HTML-Tag wird verwendet, um eine Überschrift der Stufe 1 zu erstellen?",
+    "question": "Welches Element wird verwendet, um eine Webseite in HTML zu strukturieren?",
+    "options": [
+      "<div>",
+      "<section>",
+      "<container>",
+      "<page>"
+    ],
+    "answer": "<div>"
+  },
+  {
+    "id": 3,
+    "question": "Welches Attribut wird verwendet, um den Titel einer Webseite festzulegen?",
+    "options": [
+      "title",
+      "head",
+      "header",
+      "meta"
+    ],
+    "answer": "title"
+  },
+  {
+    "id": 4,
+    "question": "Welches Element wird verwendet, um Text fett darzustellen?",
+    "options": [
+      "<b>",
+      "<strong>",
+      "<em>",
+      "<i>"
+    ],
+    "answer": "<strong>"
+  },
+  {
+    "id": 5,
+    "question": "Welches HTML-Tag wird verwendet, um eine Überschrift der ersten Ebene darzustellen?",
     "options": [
       "<h1>",
+      "<h2>",
       "<header>",
-      "<heading>",
-      "<h>"
+      "<h3>"
     ],
     "answer": "<h1>"
   },
   {
-    "id": 3,
-    "question": "Welches Tag wird verwendet, um einen Absatz zu erstellen?",
-    "options": [
-      "<p>",
-      "<para>",
-      "<text>",
-      "<paragraph>"
-    ],
-    "answer": "<p>"
-  },
-  {
-    "id": 4,
-    "question": "Wie fügt man in HTML einen Link hinzu?",
-    "options": [
-      "<a>",
-      "<link>",
-      "<href>",
-      "<url>"
-    ],
-    "answer": "<a>"
-  },
-  {
-    "id": 5,
-    "question": "Wie fügt man ein Bild in HTML ein?",
-    "options": [
-      "<img>",
-      "<picture>",
-      "<image>",
-      "<src>"
-    ],
-    "answer": "<img>"
-  },
-  {
     "id": 6,
-    "question": "Wie erstellt man eine ungeordnete Liste in HTML?",
-    "options": [
-      "<ul>",
-      "<ol>",
-      "<list>",
-      "<unordered>"
-    ],
-    "answer": "<ul>"
-  },
-  {
-    "id": 7,
-    "question": "Welches Attribut wird für die Bildquelle im <img>-Tag verwendet?",
-    "options": [
-      "src",
-      "href",
-      "link",
-      "alt"
-    ],
-    "answer": "src"
-  },
-  {
-    "id": 8,
-    "question": "Welches HTML-Tag wird verwendet, um eine Tabelle zu erstellen?",
-    "options": [
-      "<table>",
-      "<tab>",
-      "<tbl>",
-      "<t>"
-    ],
-    "answer": "<table>"
-  },
-  {
-    "id": 9,
-    "question": "Wie definiert man eine Tabellenzeile in HTML?",
-    "options": [
-      "<tr>",
-      "<td>",
-      "<th>",
-      "<row>"
-    ],
-    "answer": "<tr>"
-  },
-  {
-    "id": 10,
-    "question": "Welches Tag wird verwendet, um eine nummerierte Liste zu erstellen?",
+    "question": "Welches Element wird verwendet, um eine unnummerierte Liste zu erstellen?",
     "options": [
       "<ol>",
       "<ul>",
       "<li>",
       "<list>"
     ],
-    "answer": "<ol>"
+    "answer": "<ul>"
+  },
+  {
+    "id": 7,
+    "question": "Welches Element wird verwendet, um einen Hyperlink zu erstellen?",
+    "options": [
+      "<link>",
+      "<href>",
+      "<a>",
+      "<url>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 8,
+    "question": "Welches HTML-Tag wird verwendet, um Text kursiv darzustellen?",
+    "options": [
+      "<i>",
+      "<italic>",
+      "<em>",
+      "<b>"
+    ],
+    "answer": "<em>"
+  },
+  {
+    "id": 9,
+    "question": "Welches Attribut wird verwendet, um die Quelle eines Bildes in HTML festzulegen?",
+    "options": [
+      "src",
+      "href",
+      "url",
+      "path"
+    ],
+    "answer": "src"
+  },
+  {
+    "id": 10,
+    "question": "Welches HTML-Element wird verwendet, um eine Tabelle zu erstellen?",
+    "options": [
+      "<table>",
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "answer": "<table>"
   },
   {
     "id": 11,
-    "question": "Beispiel-Frage 11?",
+    "question": "Welches Attribut wird verwendet, um das Ziel eines Hyperlinks zu definieren?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "href",
+      "target",
+      "src",
+      "action"
     ],
-    "answer": "Option 1"
+    "answer": "target"
   },
   {
     "id": 12,
-    "question": "Beispiel-Frage 12?",
+    "question": "Welches Element wird verwendet, um ein Formular zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<form>",
+      "<input>",
+      "<button>",
+      "<submit>"
     ],
-    "answer": "Option 1"
+    "answer": "<form>"
   },
   {
     "id": 13,
-    "question": "Beispiel-Frage 13?",
+    "question": "Welches Element wird verwendet, um den Text eines Absatzes darzustellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<p>",
+      "<h1>",
+      "<span>",
+      "<div>"
     ],
-    "answer": "Option 1"
+    "answer": "<p>"
   },
   {
     "id": 14,
-    "question": "Beispiel-Frage 14?",
+    "question": "Was ist der Zweck des 'alt'-Attributs in einem <img>-Tag?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "Es gibt die Bildquelle an.",
+      "Es beschreibt das Bild für Screenreader.",
+      "Es zeigt das Bild in voller Größe.",
+      "Es steuert die Bildgröße."
     ],
-    "answer": "Option 1"
+    "answer": "Es beschreibt das Bild für Screenreader."
   },
   {
     "id": 15,
-    "question": "Beispiel-Frage 15?",
+    "question": "Welches HTML-Element wird verwendet, um eine Zeilenumbruch zu erzeugen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<br>",
+      "<hr>",
+      "<b>",
+      "<i>"
     ],
-    "answer": "Option 1"
+    "answer": "<br>"
   },
   {
     "id": 16,
-    "question": "Beispiel-Frage 16?",
+    "question": "Welches HTML-Tag wird verwendet, um eine horizontale Linie darzustellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<hr>",
+      "<line>",
+      "<div>",
+      "<br>"
     ],
-    "answer": "Option 1"
+    "answer": "<hr>"
   },
   {
     "id": 17,
-    "question": "Beispiel-Frage 17?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Fußnote oder ein Zitat hinzuzufügen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<footer>",
+      "<blockquote>",
+      "<aside>",
+      "<cite>"
     ],
-    "answer": "Option 1"
+    "answer": "<blockquote>"
   },
   {
     "id": 18,
-    "question": "Beispiel-Frage 18?",
+    "question": "Welches HTML-Tag wird verwendet, um den Kopfbereich einer Seite zu kennzeichnen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<head>",
+      "<header>",
+      "<body>",
+      "<footer>"
     ],
-    "answer": "Option 1"
+    "answer": "<head>"
   },
   {
     "id": 19,
-    "question": "Beispiel-Frage 19?",
+    "question": "Welches HTML-Tag wird verwendet, um Text als Code darzustellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<code>",
+      "<pre>",
+      "<var>",
+      "<samp>"
     ],
-    "answer": "Option 1"
+    "answer": "<code>"
   },
   {
     "id": 20,
-    "question": "Beispiel-Frage 20?",
+    "question": "Wie definiert man eine HTML-Comment (Kommentar)?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<comment> Kommentar </comment>",
+      "<!-- Kommentar -->",
+      "<# Kommentar #>",
+      "// Kommentar"
     ],
-    "answer": "Option 1"
+    "answer": "<!-- Kommentar -->"
   },
   {
     "id": 21,
-    "question": "Beispiel-Frage 21?",
+    "question": "Welches HTML-Element wird verwendet, um eine Bildbeschreibung hinzuzufügen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<figcaption>",
+      "<caption>",
+      "<label>",
+      "<desc>"
     ],
-    "answer": "Option 1"
+    "answer": "<figcaption>"
   },
   {
     "id": 22,
-    "question": "Beispiel-Frage 22?",
+    "question": "Welches Attribut in HTML wird verwendet, um ein Bild in einer Webseite anzuzeigen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "src",
+      "href",
+      "alt",
+      "image"
     ],
-    "answer": "Option 1"
+    "answer": "src"
   },
   {
     "id": 23,
-    "question": "Beispiel-Frage 23?",
+    "question": "Wie fügt man in HTML einen Kommentar ein?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<!-- Kommentar -->",
+      "<-- Kommentar -->",
+      "// Kommentar",
+      "/* Kommentar */"
     ],
-    "answer": "Option 1"
+    "answer": "<!-- Kommentar -->"
   },
   {
     "id": 24,
-    "question": "Beispiel-Frage 24?",
+    "question": "Welches Element wird verwendet, um einen Abschnitt für Navigation in HTML zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<nav>",
+      "<ul>",
+      "<section>",
+      "<header>"
     ],
-    "answer": "Option 1"
+    "answer": "<nav>"
   },
   {
     "id": 25,
-    "question": "Beispiel-Frage 25?",
+    "question": "Welches HTML-Tag wird verwendet, um den Text innerhalb eines Absatzes hervorzuheben?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<mark>",
+      "<b>",
+      "<u>",
+      "<strong>"
     ],
-    "answer": "Option 1"
+    "answer": "<mark>"
   },
   {
     "id": 26,
-    "question": "Beispiel-Frage 26?",
+    "question": "Welches Attribut wird verwendet, um die Breite eines Bildes festzulegen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "width",
+      "height",
+      "size",
+      "src"
     ],
-    "answer": "Option 1"
+    "answer": "width"
   },
   {
     "id": 27,
-    "question": "Beispiel-Frage 27?",
+    "question": "Welches HTML-Element wird verwendet, um einen Bereich für das Einfügen von Formularsteuerelementen zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<form>",
+      "<input>",
+      "<select>",
+      "<textarea>"
     ],
-    "answer": "Option 1"
+    "answer": "<form>"
   },
   {
     "id": 28,
-    "question": "Beispiel-Frage 28?",
+    "question": "Welches HTML-Element wird verwendet, um eine optionale Eingabe in einem Formular zu definieren?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<input>",
+      "<textarea>",
+      "<button>",
+      "<select>"
     ],
-    "answer": "Option 1"
+    "answer": "<input>"
   },
   {
     "id": 29,
-    "question": "Beispiel-Frage 29?",
+    "question": "Was bedeutet das 'target' Attribut im <a>-Tag?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "Es bestimmt, wie der Link geöffnet wird.",
+      "Es gibt die Adresse des Links an.",
+      "Es zeigt das Ziel der Webseite an.",
+      "Es steuert die Anzeige des Links."
     ],
-    "answer": "Option 1"
+    "answer": "Es bestimmt, wie der Link geöffnet wird."
   },
   {
     "id": 30,
-    "question": "Beispiel-Frage 30?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Schaltfläche zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<button>",
+      "<input>",
+      "<submit>",
+      "<a>"
     ],
-    "answer": "Option 1"
+    "answer": "<button>"
   },
   {
     "id": 31,
-    "question": "Beispiel-Frage 31?",
+    "question": "Was ist der Zweck des <head>-Tags in HTML?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "Es enthält Metadaten und Links zu externen Ressourcen.",
+      "Es definiert die Struktur der Seite.",
+      "Es enthält den Hauptinhalt der Seite.",
+      "Es fügt Styles und Scripts hinzu."
     ],
-    "answer": "Option 1"
+    "answer": "Es enthält Metadaten und Links zu externen Ressourcen."
   },
   {
     "id": 32,
-    "question": "Beispiel-Frage 32?",
+    "question": "Welches HTML-Tag wird verwendet, um einen Link zu einer externen Stylesheet-Datei hinzuzufügen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<link>",
+      "<style>",
+      "<script>",
+      "<css>"
     ],
-    "answer": "Option 1"
+    "answer": "<link>"
   },
   {
     "id": 33,
-    "question": "Beispiel-Frage 33?",
+    "question": "Welches HTML-Element wird verwendet, um die Kopfzeile eines Dokuments zu definieren?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<header>",
+      "<head>",
+      "<h1>",
+      "<footer>"
     ],
-    "answer": "Option 1"
+    "answer": "<header>"
   },
   {
     "id": 34,
-    "question": "Beispiel-Frage 34?",
+    "question": "Welches HTML-Element wird verwendet, um eine Liste von Links zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<ul>",
+      "<ol>",
+      "<dl>",
+      "<list>"
     ],
-    "answer": "Option 1"
+    "answer": "<ul>"
   },
   {
     "id": 35,
-    "question": "Beispiel-Frage 35?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Tabellenspalte zu definieren?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<th>",
+      "<td>",
+      "<tr>",
+      "<col>"
     ],
-    "answer": "Option 1"
+    "answer": "<td>"
   },
   {
     "id": 36,
-    "question": "Beispiel-Frage 36?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Zeile in einer Tabelle zu definieren?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<tr>",
+      "<td>",
+      "<th>",
+      "<tbody>"
     ],
-    "answer": "Option 1"
+    "answer": "<tr>"
   },
   {
     "id": 37,
-    "question": "Beispiel-Frage 37?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Textstelle innerhalb eines Absatzes zu markieren?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<span>",
+      "<div>",
+      "<em>",
+      "<strong>"
     ],
-    "answer": "Option 1"
+    "answer": "<span>"
   },
   {
     "id": 38,
-    "question": "Beispiel-Frage 38?",
+    "question": "Welches HTML-Tag wird verwendet, um den Titel einer Webseite im Browserfenster festzulegen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<title>",
+      "<head>",
+      "<meta>",
+      "<h1>"
     ],
-    "answer": "Option 1"
+    "answer": "<title>"
   },
   {
     "id": 39,
-    "question": "Beispiel-Frage 39?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Zeile in einer Tabelle zu definieren?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<tr>",
+      "<td>",
+      "<th>",
+      "<tbody>"
     ],
-    "answer": "Option 1"
+    "answer": "<tr>"
   },
   {
     "id": 40,
-    "question": "Beispiel-Frage 40?",
+    "question": "Welches HTML-Tag wird verwendet, um einen Abschnitt der Seite zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<section>",
+      "<article>",
+      "<header>",
+      "<footer>"
     ],
-    "answer": "Option 1"
+    "answer": "<section>"
   },
   {
     "id": 41,
-    "question": "Beispiel-Frage 41?",
+    "question": "Welches HTML-Tag wird verwendet, um den Text in einer Tabelle fett zu machen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<th>",
+      "<strong>",
+      "<td>",
+      "<tr>"
     ],
-    "answer": "Option 1"
+    "answer": "<th>"
   },
   {
     "id": 42,
-    "question": "Beispiel-Frage 42?",
+    "question": "Welches HTML-Tag wird verwendet, um ein Auswahlmenü zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<select>",
+      "<option>",
+      "<input>",
+      "<textarea>"
     ],
-    "answer": "Option 1"
+    "answer": "<select>"
   },
   {
     "id": 43,
-    "question": "Beispiel-Frage 43?",
+    "question": "Was ist das Attribut 'required' in einem Formular?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "Es macht das Feld Pflicht.",
+      "Es definiert den Standardwert.",
+      "Es zeigt eine Option an.",
+      "Es stellt sicher, dass der Benutzer eine Antwort gibt."
     ],
-    "answer": "Option 1"
+    "answer": "Es macht das Feld Pflicht."
   },
   {
     "id": 44,
-    "question": "Beispiel-Frage 44?",
+    "question": "Welches Attribut wird verwendet, um eine Eingabe in HTML als 'passwort' darzustellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "type='password'",
+      "type='text'",
+      "type='hidden'",
+      "type='email'"
     ],
-    "answer": "Option 1"
+    "answer": "type='password'"
   },
   {
     "id": 45,
-    "question": "Beispiel-Frage 45?",
+    "question": "Welches HTML-Element wird verwendet, um ein Bild anzuzeigen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<img>",
+      "<image>",
+      "<src>",
+      "<picture>"
     ],
-    "answer": "Option 1"
+    "answer": "<img>"
   },
   {
     "id": 46,
-    "question": "Beispiel-Frage 46?",
+    "question": "Welches Attribut wird verwendet, um die Höhe eines Bildes in HTML zu steuern?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "height",
+      "width",
+      "size",
+      "image"
     ],
-    "answer": "Option 1"
+    "answer": "height"
   },
   {
     "id": 47,
-    "question": "Beispiel-Frage 47?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Überschrift der dritten Ebene zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<h3>",
+      "<h2>",
+      "<h1>",
+      "<h4>"
     ],
-    "answer": "Option 1"
+    "answer": "<h3>"
   },
   {
     "id": 48,
-    "question": "Beispiel-Frage 48?",
+    "question": "Welches HTML-Tag wird verwendet, um eine E-Mail-Adresse anzuzeigen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<a href='mailto:example@example.com'>",
+      "<email>",
+      "<contact>",
+      "<a>"
     ],
-    "answer": "Option 1"
+    "answer": "<a href='mailto:example@example.com'>"
   },
   {
     "id": 49,
-    "question": "Beispiel-Frage 49?",
+    "question": "Welches HTML-Tag wird verwendet, um einen Abschnitt in einer Webseite einzufügen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<section>",
+      "<article>",
+      "<header>",
+      "<footer>"
     ],
-    "answer": "Option 1"
+    "answer": "<section>"
   },
   {
     "id": 50,
-    "question": "Beispiel-Frage 50?",
+    "question": "Welches HTML-Tag wird verwendet, um eine Fußzeile zu erstellen?",
     "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
+      "<footer>",
+      "<section>",
+      "<head>",
+      "<div>"
     ],
-    "answer": "Option 1"
+    "answer": "<footer>"
   }
 ]
