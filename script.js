@@ -32,7 +32,7 @@ function shuffleArray(array) {
 }
 
 function loadQuestion() {
-  if (questions.length === 49) {
+  if (questions.length === 0) {
     alert(
       `Congratulations you had ${correctAnswers}/${questionsLength} correct answers`
     );
