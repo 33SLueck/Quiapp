@@ -22,7 +22,21 @@ body {
     flex-direction: column;
     gap: 10px;
 }
-
+ select {
+    
+    text-align: center;
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 0.675em 1em 0.675em 1em;
+    background-color: #fff;
+    border: 1px solid #caced1;
+    border-radius: 0.25rem;
+    color: #000;
+    cursor: pointer;
+  }
+  #json-selector {
+    text-align: center;
+  }
 button {
     background: #007bff;
     color: white;

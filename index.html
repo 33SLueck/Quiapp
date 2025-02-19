@@ -7,12 +7,16 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <select id="json-selector">
-        <option value="questions.json">Wähle eine Kategorie</option>
-        <option value="questions_css.json">HTML</option>
-        <option value="questions_css.json">CSS</option>
-    </select>
+    
+</div>
+
     <div class="quiz-container">
+        <div classname="quiz-select">    
+            <select id="json-selector">
+                <option value="">Wähle eine Kategorie</option>
+                <option value="questions_html.json">HTML</option>
+                <option value="questions_css.json">CSS</option>
+            </select>
         <h2 id="question">Lade Frage...</h2>
         <div id="options" class="options-container"></div>
         <p id="feedback"></p>

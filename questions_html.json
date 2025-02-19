@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Wofür steht HTML?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Learning",
+      "HyperTool Multi Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Welches HTML-Tag wird verwendet, um eine Überschrift der Stufe 1 zu erstellen?",
+    "options": [
+      "<h1>",
+      "<header>",
+      "<heading>",
+      "<h>"
+    ],
+    "answer": "<h1>"
+  },
+  {
+    "id": 3,
+    "question": "Welches Tag wird verwendet, um einen Absatz zu erstellen?",
+    "options": [
+      "<p>",
+      "<para>",
+      "<text>",
+      "<paragraph>"
+    ],
+    "answer": "<p>"
+  },
+  {
+    "id": 4,
+    "question": "Wie fügt man in HTML einen Link hinzu?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 5,
+    "question": "Wie fügt man ein Bild in HTML ein?",
+    "options": [
+      "<img>",
+      "<picture>",
+      "<image>",
+      "<src>"
+    ],
+    "answer": "<img>"
+  },
+  {
+    "id": 6,
+    "question": "Wie erstellt man eine ungeordnete Liste in HTML?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<list>",
+      "<unordered>"
+    ],
+    "answer": "<ul>"
+  },
+  {
+    "id": 7,
+    "question": "Welches Attribut wird für die Bildquelle im <img>-Tag verwendet?",
+    "options": [
+      "src",
+      "href",
+      "link",
+      "alt"
+    ],
+    "answer": "src"
+  },
+  {
+    "id": 8,
+    "question": "Welches HTML-Tag wird verwendet, um eine Tabelle zu erstellen?",
+    "options": [
+      "<table>",
+      "<tab>",
+      "<tbl>",
+      "<t>"
+    ],
+    "answer": "<table>"
+  },
+  {
+    "id": 9,
+    "question": "Wie definiert man eine Tabellenzeile in HTML?",
+    "options": [
+      "<tr>",
+      "<td>",
+      "<th>",
+      "<row>"
+    ],
+    "answer": "<tr>"
+  },
+  {
+    "id": 10,
+    "question": "Welches Tag wird verwendet, um eine nummerierte Liste zu erstellen?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<list>"
+    ],
+    "answer": "<ol>"
+  },
+  {
+    "id": 11,
+    "question": "Beispiel-Frage 11?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 12,
+    "question": "Beispiel-Frage 12?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 13,
+    "question": "Beispiel-Frage 13?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 14,
+    "question": "Beispiel-Frage 14?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 15,
+    "question": "Beispiel-Frage 15?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 16,
+    "question": "Beispiel-Frage 16?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 17,
+    "question": "Beispiel-Frage 17?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 18,
+    "question": "Beispiel-Frage 18?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 19,
+    "question": "Beispiel-Frage 19?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 20,
+    "question": "Beispiel-Frage 20?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 21,
+    "question": "Beispiel-Frage 21?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 22,
+    "question": "Beispiel-Frage 22?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 23,
+    "question": "Beispiel-Frage 23?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 24,
+    "question": "Beispiel-Frage 24?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 25,
+    "question": "Beispiel-Frage 25?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 26,
+    "question": "Beispiel-Frage 26?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 27,
+    "question": "Beispiel-Frage 27?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 28,
+    "question": "Beispiel-Frage 28?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 29,
+    "question": "Beispiel-Frage 29?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 30,
+    "question": "Beispiel-Frage 30?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 31,
+    "question": "Beispiel-Frage 31?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 32,
+    "question": "Beispiel-Frage 32?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 33,
+    "question": "Beispiel-Frage 33?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 34,
+    "question": "Beispiel-Frage 34?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 35,
+    "question": "Beispiel-Frage 35?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 36,
+    "question": "Beispiel-Frage 36?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 37,
+    "question": "Beispiel-Frage 37?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 38,
+    "question": "Beispiel-Frage 38?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 39,
+    "question": "Beispiel-Frage 39?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 40,
+    "question": "Beispiel-Frage 40?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 41,
+    "question": "Beispiel-Frage 41?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 42,
+    "question": "Beispiel-Frage 42?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 43,
+    "question": "Beispiel-Frage 43?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 44,
+    "question": "Beispiel-Frage 44?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 45,
+    "question": "Beispiel-Frage 45?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 46,
+    "question": "Beispiel-Frage 46?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 47,
+    "question": "Beispiel-Frage 47?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 48,
+    "question": "Beispiel-Frage 48?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 49,
+    "question": "Beispiel-Frage 49?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  },
+  {
+    "id": 50,
+    "question": "Beispiel-Frage 50?",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4"
+    ],
+    "answer": "Option 1"
+  }
+]

@@ -5,6 +5,7 @@ let lastQuestion;
 document
   .getElementById("json-selector")
   .addEventListener("change", function () {
+    if(this.value !== "")
     loadQuestions(this.value);
   });
 
